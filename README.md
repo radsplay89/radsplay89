@@ -1,4 +1,4 @@
-## Olá 👋  me chamo    Ronaldo Alves Dos Santos (radsplay89).
+## Olá 👋  Me chamo    Ronaldo Alves Dos Santos (radsplay89).
 
 - 🔭Atualmente trabalho de  Motorista na Empresa Prudenco Na cidade de Presidente prudente -sp !!! 
 - 🌱 atualmente estou em fase de aprendizagem  no ramo de programação!!
