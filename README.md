@@ -17,3 +17,5 @@
 
  <a href="https://www.linkedin.com/in/ronaldo-alves-dos-santos-7950a8367/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://www.instagram.com/prudendroneoficial/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<a href="URL_DA_SUA_REDE_SOCIAL" target="_blank" rel="noopener noreferrer"><img src="caminho/para/logo-rede-social.png" alt="Nome da Rede Social" style="width:30px; height:30px;"></a>
+
