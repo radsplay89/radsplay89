@@ -19,7 +19,3 @@
 <a href="https://www.instagram.com/prudendroneoficial/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
 <a href="https://www.instagram.com/prudendroneoficial/)" target="_blank" rel="noopener noreferrer">
     Instagram
-</a>
-<a href="[URL_DA_SUA_REDE_SOCIAL](https://www.instagram.com/prudendroneoficial/))" target="_blank" rel="noopener noreferrer">
-    <img src="[caminho/para/logo-rede-social.png](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram" style="width:30px; height:30px;">
-</a>
